@@ -1,10 +1,4 @@
-﻿/*======MEMBRES DU GROUPE==========
-Lyblassa Archange, Tchoutang Yi Tchuigoua   TCHL82330400
-Stella Diane, Meffo                         MEFS21599700
-Marcy Audrey, Kouega Djiaha                 DJIM66300500
-Lyn Joyce, Boyom Matsi                      BOYL82290500
-Rousselle Sandra, Bobda Massu               BOBR14309900
-*/
+﻿
 
 using System;
 namespace PIF1006_tp1
@@ -17,12 +11,6 @@ namespace PIF1006_tp1
            
 
             Console.WriteLine("===== Application Automate =====\n");
-            Console.WriteLine("Développé par :\n");
-            Console.WriteLine("Lyblassa Archange, Tchoutang Yi Tchuigoua\tTCHL82330400");
-            Console.WriteLine("Stella Diane, Meffo\t\t\t\tMEFS21599700");
-            Console.WriteLine("Marcy Audrey, Kouega Djiaha\t\t\tDJIM66300500");
-            Console.WriteLine("Lyn Joyce, Boyom Matsi\t\t\t\tBOYL82290500");
-            Console.WriteLine("Rousselle Sandra, Bobda Massu\t\t\tBOBR14309900");
             Console.WriteLine("\n================================");
             Console.WriteLine("Chargement de l'automate...");
 
